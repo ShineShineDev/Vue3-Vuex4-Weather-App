@@ -5418,11 +5418,11 @@ function Zf(e, t) {
 const lc = gn(Gf, [
       ["render", Zf]
   ]),
-  ed = "/Vue3-Vuex4-Weather-App/assets/clear-0169eb80.png",
-  td = "/Vue3-Vuex4-Weather-App/assets/clouds-c8661c66.png",
-  nd = "/Vue3-Vuex4-Weather-App/assets/rainfall-2840d48f.png",
-  rd = "/Vue3-Vuex4-Weather-App/assets/storm-4586a005.png",
-  ac = "/Vue3-Vuex4-Weather-App/assets/foggy-3f3c0655.png";
+  ed = "Vue3-Vuex4-Weather-App/assets/clear-0169eb80.png",
+  td = "Vue3-Vuex4-Weather-App/assets/clouds-c8661c66.png",
+  nd = "Vue3-Vuex4-Weather-App/assets/rainfall-2840d48f.png",
+  rd = "Vue3-Vuex4-Weather-App/assets/storm-4586a005.png",
+  ac = "Vue3-Vuex4-Weather-App/assets/foggy-3f3c0655.png";
 const sd = {
       data() {
           return {
