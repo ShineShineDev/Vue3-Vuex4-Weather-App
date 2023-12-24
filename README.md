@@ -1,4 +1,4 @@
-# Vue3 & Vuex4 Module Weather App
+# Vue3 & Vuex4 Module Weather App U
 
 ### gh-pages Link
 https://shineshinedev.github.io/Vue3-Vuex4-Weather-App/
